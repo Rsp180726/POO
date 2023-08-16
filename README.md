@@ -1,2 +1,2 @@
-# Poo2023
+# Programação Orientada a Objetos
 Gerenciamento de Vendas de Hardware
